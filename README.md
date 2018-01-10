@@ -1,0 +1,2 @@
+# auto-mate
+easy deploy
